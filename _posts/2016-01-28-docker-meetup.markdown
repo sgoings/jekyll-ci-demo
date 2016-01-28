@@ -9,4 +9,5 @@ A Docker Boulder Meetup was held today!
 
 Presented by Neil Hudson.
 
-And also Seth Goings
+
+And also Seth Goings.
