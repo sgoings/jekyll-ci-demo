@@ -6,5 +6,7 @@ categories: docker boulder
 ---
 
 A Docker Boulder Meetup was held today!
+
 Presented by Neil Hudson.
+
 And also Seth Goings.
